@@ -1,0 +1,13 @@
+C:\Cooper\ComputerPrograming\Coded Games\AussieFarmer\AussieFarmer\bin\Release\netcoreapp2.1\AussieFarmer.deps.json
+C:\Cooper\ComputerPrograming\Coded Games\AussieFarmer\AussieFarmer\bin\Release\netcoreapp2.1\AussieFarmer.runtimeconfig.json
+C:\Cooper\ComputerPrograming\Coded Games\AussieFarmer\AussieFarmer\bin\Release\netcoreapp2.1\AussieFarmer.runtimeconfig.dev.json
+C:\Cooper\ComputerPrograming\Coded Games\AussieFarmer\AussieFarmer\bin\Release\netcoreapp2.1\AussieFarmer.dll
+C:\Cooper\ComputerPrograming\Coded Games\AussieFarmer\AussieFarmer\bin\Release\netcoreapp2.1\AussieFarmer.pdb
+C:\Cooper\ComputerPrograming\Coded Games\AussieFarmer\AussieFarmer\obj\Release\netcoreapp2.1\AussieFarmer.csproj.CoreCompileInputs.cache
+C:\Cooper\ComputerPrograming\Coded Games\AussieFarmer\AussieFarmer\obj\Release\netcoreapp2.1\AussieFarmer.RazorAssemblyInfo.cache
+C:\Cooper\ComputerPrograming\Coded Games\AussieFarmer\AussieFarmer\obj\Release\netcoreapp2.1\AussieFarmer.RazorAssemblyInfo.cs
+C:\Cooper\ComputerPrograming\Coded Games\AussieFarmer\AussieFarmer\obj\Release\netcoreapp2.1\AussieFarmer.AssemblyInfoInputs.cache
+C:\Cooper\ComputerPrograming\Coded Games\AussieFarmer\AussieFarmer\obj\Release\netcoreapp2.1\AussieFarmer.AssemblyInfo.cs
+C:\Cooper\ComputerPrograming\Coded Games\AussieFarmer\AussieFarmer\obj\Release\netcoreapp2.1\AussieFarmer.RazorTargetAssemblyInfo.cache
+C:\Cooper\ComputerPrograming\Coded Games\AussieFarmer\AussieFarmer\obj\Release\netcoreapp2.1\AussieFarmer.dll
+C:\Cooper\ComputerPrograming\Coded Games\AussieFarmer\AussieFarmer\obj\Release\netcoreapp2.1\AussieFarmer.pdb

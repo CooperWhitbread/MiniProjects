@@ -1,0 +1,292 @@
+﻿/*////////////*/
+/*BASIC SET UP*/
+/*////////////*/
+body {
+    font-family: Georgia;
+    margin: 0px;
+}
+
+/*Button*/
+.cfkbutto:hover {
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #6c7c7c), color-stop(1, #768d87));
+    background: -webkit-linear-gradient(top, #6c7c7c 5%, #768d87 100%);
+    background: linear-gradient(to bottom, #6c7c7c 5%, #768d87 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#6c7c7c', endColorstr='#768d87',GradientType=0);
+    background-color: #6c7c7c;
+}
+
+.cfkbutto:active {
+    position: relative;
+    top: 1px;
+}
+
+.cfkbutto {
+    -moz-box-shadow: inset 0px 1px 3px 0px #91b8b3;
+    -webkit-box-shadow: inset 0px 1px 3px 0px #91b8b3;
+    box-shadow: inset 0px 1px 3px 0px #91b8b3;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #768d87), color-stop(1, #6c7c7c));
+    background: -webkit-linear-gradient(top, #768d87 5%, #6c7c7c 100%);
+    background: linear-gradient(to bottom, #768d87 5%, #6c7c7c 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#768d87', endColorstr='#6c7c7c',GradientType=0);
+    background-color: #768d87;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    border: 1px solid #566963;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Arial;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 11px 23px;
+    text-decoration: none;
+    text-shadow: 0px -1px 0px #2b665e;
+}
+
+
+/*/////////////////////*/
+/*TITLE AND NSTRUCTIONS*/
+/*/////////////////////*/
+#MainContainer {
+    width: 100%-4px;
+    margin: 0%;
+    /*BORDER*/
+    border-width: 8px;
+    border-color: #606060;
+    border-style: solid;
+    text-align: center;
+    /*Test*/
+    background: -moz-linear-gradient(top, rgba(0,0,0,0.65) 0%, rgba(0,0,0,0) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, rgba(0,0,0,0.65) 0%,rgba(0,0,0,0) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, rgba(0,0,0,0.65) 0%,rgba(0,0,0,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a6000000', endColorstr='#00000000',GradientType=0 ); /* IE6-9 */
+}
+#TitleBlock {
+    background-color: #00bbff;
+    /*TEXT*/
+    color: #0000ff;
+    text-align: center;
+    font-size: 60px;
+    font-weight: bold;
+    /*POSITION*/
+    position: center;
+    width: 90%;
+    display: inline-block;
+    /*BORDER*/
+    border-width: 6px;
+    border-color: #0303ab;
+    border-style: solid;
+    margin: 30px;
+}
+
+.SubTitle {
+    font-size: 25px;
+}
+
+#GameBox {
+    background-color: #4cff00;
+    /*TEXT*/
+    color: #000000;
+    text-align: center;
+    /*POSITION*/
+    display: inline-block;
+    width: 80%;
+    margin: 30px;
+    padding: 10px;
+    /*BORDER*/
+    border-width: 6px;
+    border-color: #606060;
+    border-style: solid;
+}
+
+#InstructionAndComments {
+    background-color: #d3d3d3;
+    /*TEXT*/
+    color: #000000;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    /*POSITION*/
+    display: inline-block;
+    width: 80%;
+    margin: 30px;
+    padding: 7px;
+    /*BORDER*/
+    border-width: 8px;
+    border-color: #606060;
+    border-style: solid;
+}
+
+#IntructionsAndCommentsText {
+    /*TEXT*/
+    font-size: 14px;
+    color: #000000;
+    text-align: justify;
+    font-weight: normal;
+}
+/*///////////////*/
+/*START UP SCREEN*/
+/*///////////////*/
+
+.StartScreenTitle {
+    /*TEXT*/
+    color: #0000ff;
+    text-align: center;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.StartScreenBy {
+    font-size: 25px;
+    color: #0000ff;
+    text-align: center;
+    font-weight: bold;
+}
+
+.StartScreenPlayButton {
+    color: #0000ff;
+    background-color: #4cff00;
+    border-width: 0px;
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+/*////////////////*/
+/*BEGINNING SCREEN*/
+/*////////////////*/
+
+.BeginningTractor {
+    width: 200px;
+    position: absolute;
+    -webkit-animation: BeginningTractor 3s linear infinite;
+    -moz-animation: BeginningTractor 3s linear infinite;
+    -o-animation: BeginningTractor 3s linear infinite;
+}
+
+@-webkit-keyframes BeginningTractor {
+    from {
+        left: 60%;
+    }
+
+    to {
+        left: 10%;
+    }
+}
+
+/*///////////*/
+/*PLAY SCREEN*/
+/*///////////*/
+
+
+/*Coin*/
+
+#CoinDiv {
+    height: 75px;
+    text-align: left;
+}
+
+#CoinImage {
+    width: 40px;
+    height: 40px;
+}
+
+.CoinTextNumber {
+    /*TEXT*/
+    color: #000000;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#SaveButton {
+    position: relative;
+    left: 40%;
+    top: 50px;
+}
+
+#LoadButton {
+    left: 600px;
+    top: 15px;
+    position: absolute;
+}
+
+#AchievementDiv {
+    /*Position*/
+    left: 50%;
+    top: 50%;
+    position: fixed;
+    transform: translate(-50%, -50%);
+    height: 200px;
+    width: 70%;
+    max-width: 400px;
+    /*Border*/
+    border-width: 10px;
+    border-color: #606060;
+    border-style: solid;
+    /*Background*/
+    background-color: #999999;
+    /*Text*/
+    text-align: center;
+    color: #000000;
+    font-size: 20px;
+}
+
+#AchievementButton {
+    left: 50%;
+    top: 150px;
+    position: absolute;
+    transform: translate(-50%, 0%);
+    width: 100px;
+    height: 40px;
+}
+
+#CancelButton {
+    left: 60%;
+    top: 120px;
+    transform: translate(-50%, 0%);
+    position: absolute;
+    width: 100px;
+    height: 40px;
+}
+
+#OKButton {
+    left: 20%;
+    top: 120px;
+    transform: translate(-50%, 0%);
+    position: absolute;
+    width: 100px;
+    height: 40px;
+}
+
+/*Username input Screen*/
+
+.InputTestLable {
+    /*Text*/
+    text-align: center;
+    color: #000000;
+    font-size: 20px;
+}
+
+#UserNameImput {
+    /*Text*/
+    text-align: center;
+    color: #000000;
+    font-size: 20px;
+}
+
+#YesStart {
+    left: 10%;
+    top: 60%;
+    position: absolute;
+    width: 100px;
+    height: 40px;
+}
+
+#NoStart {
+    left: 70%;
+    top: 60%;
+    position: absolute;
+    width: 100px;
+    height: 40px;
+}

@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Aussie Farmer</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="AussieFarmer/CSSFiles/MainPageLayout.css" />
+    <link rel="stylesheet" href="AussieFarmer/CSSFiles/Animals.css" />
+    <link href="https://fonts.googleapis.com/css?family=Acme" rel="stylesheet">
+</head>
+<body>
+    <!--JAVASCRIPT INCLUDES-->
+    <!--Put them in the order they are included.-->
+    <script src="AussieFarmer/Achievements.js"></script>
+    <script src="AussieFarmer/Animals.js"></script>
+    <script src="AussieFarmer/Game.js"></script>
+    <script src="AussieFarmer/GameSave.js"></script>
+
+    <!--THE DIV THAT CONTAINS THE WHOLE SCREEN-->
+    <div id="MainContainer">
+        <!--THE TITLE BLOCK-->
+        <div id="TitleBlock">
+            <cf>Aussie Farmer</cf>
+            <div class="SubTitle">
+                By Cooper Whitbread
+            </div>
+        </div>
+
+        <!--THE GAME-->
+        <div id="GameBox">
+        </div>
+
+        <!--THE INSTRUCTIONS BOX-->
+        <div id="InstructionAndComments">
+            Instructions:
+            <div id="IntructionsAndCommentsText">
+                <ul>1. Press "Press here to begin" to start the game.</ul>
+                <ul>2. Enter a username. Entering the same username later with get you back to where you last finished.</ul>
+                <ul>3. The aim is to get as many animals as possible. Collect the chicken egg to get some money. Click on either the egg or the Chicken paddock to do this.</ul>
+                <ul>4. When you have enough money, add another chicken by clicking the "Add Head" button. More Chickens will give you more money.</ul>
+                <ul>5. When you have enough money, add a pig by pressing the "Add Head" button underneath the pig to unlock pigs. Pigs will give you more money than chickens but take longer to produce their items</ul>
+                <ul>6. Keep playing until you have unlocked all the animals.</ul>
+                <ul>7. The game will save automatically every 3 seconds. Leave at any time you want and using your username, you will be able to back to where you finished.</ul>
+                <ul>8. Have fun!</ul>
+            </div>
+        </div>
+    </div>
+
+    <!--THE MAIN SCRIPT TO RUN-->
+    <script src="AussieFarmer/Manager.js" type="text/javascript"></script>
+
+</body>
+</html>

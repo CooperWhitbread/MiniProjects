@@ -1,0 +1,52 @@
+﻿.animalImage {
+    height: 85px;
+    top: -68px;
+    position: relative;
+}
+
+.AnimalPaddock {
+    background-color: #218002;
+    /*BORDER*/
+    border-width: 6px;
+    border-color: #954f01;
+    border-style: solid;
+    /*Position*/
+    width: 100px;
+    height: 100px;
+    top: 25px;
+    position: relative;
+}
+
+.AddButton {
+    position: relative;
+    width: 160px;
+    height: 40px;
+}
+
+.AnimalText {
+    height: 60px;
+    top: -50px;
+    position: relative;
+    /*TEXT*/
+    color: #000000;
+    font-size: 15px;
+    font-weight: normal;
+}
+
+.ItemImage {
+    position: relative;
+    height: 80px;
+    top: -120px;
+}
+
+.animalDiv {
+    width: 170px;
+    background-color: #ffffff;
+    height: 310px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px;
+    border-width: 5px;
+    border-color: aqua;
+    border-style: solid;
+}
