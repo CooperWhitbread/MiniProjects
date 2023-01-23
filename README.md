@@ -21,6 +21,4 @@ In particular:
 
 ### Ants
 
-![Ants1](/Resources/Ants_1.png?raw=true "Ants1")
-![Ants2](/Resources/Ants_2.png?raw=true "Ants2")
 ![Ants3](/Resources/Ants_3.png?raw=true "Ants3")
