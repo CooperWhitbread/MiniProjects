@@ -49,7 +49,7 @@ There were many challenges assositated with creating a game in matlab. The follo
 
 ## Game Play
 
-<img src="/Resources/Ants1.gif" alt="Ants1" width="40%"/>
-<img src="/Resources/Ants2.gif" alt="Ants2" width="40%"/>
-<img src="/Resources/Ants3.gif" alt="Ants3" width="40%"/>
-<img src="/Resources/Ants4.gif" alt="Ants4" width="40%"/>
+<img src="/Resources/Ants1.gif" alt="Ants1" width="30%" align="middle"/>
+<img src="/Resources/Ants2.gif" alt="Ants2" width="30%" align="middle"/>
+<img src="/Resources/Ants3.gif" alt="Ants3" width="30%" align="middle"/>
+<img src="/Resources/Ants4.gif" alt="Ants4" width="30%" align="middle"/>
