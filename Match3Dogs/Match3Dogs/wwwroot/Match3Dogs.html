@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+<html>
+<head No-wrap>
+    <title></title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="Match3Dogs/HTMLPageLayout.css" />
+</head>
+<body>
+    <!--JAVASCRIPT INCLUDES-->
+    <!--Put them in the order they are included.-->
+    <script src="Match3Dogs/Game.js"></script>
+    <script src="Match3Dogs/MenuButtonManager.js"></script>
+    <script src="Match3Dogs/ImageManager.js"></script>
+
+    <!--THE DIV THAT CONTAINS THE WHOLE SCREEN-->
+    <div id="MainContainer">
+        <!--THE TITLE BLOCK-->
+        <div id="TitleBlock">
+            Match3Dogs
+            <div class="SubTitle">
+                By Cooper Whitbread
+            </div>
+        </div>
+
+        <!--THE GAME-->
+        <div id="GameBox">
+        </div>
+        <div width="100%" color="Blue" height="10%">
+            <!--THE INSTRUCTIONS BOX-->
+            <div id="InstructionAndComments">
+                Instructions:
+                <div id="IntructionsAndCommentsText">
+                    <ul>1. Press the text "Click Here To Play" to go to the menu screen.</ul>
+                    <ul>
+                        2. Pick what game modes you want by clicking the text of the desired game modes.
+                        The coloured circle indicates which mode has been selected.
+                    </ul>
+                    <ul>3. Press "Press Here to Begin!" to start the game.</ul>
+                    <ul>4. Start moving tiles any direction in a one tile radius to form match threes.</ul>
+                    <ul>5. Points are scored as follows: match 3 = 1p; match 4 = 2p; Match 5 = 3p; L (in any rotation) = 2p; T (in any rotation) = 2p.</ul>
+                    <ul>
+                        6. There is no check for possible matches but if the tiles need to reshuffled, press the button with an 'R' inside two arrows
+                        at the top right of screen.
+                    </ul>
+                    <ul>7. If at any point you want to pause, press the gear in the top right of screen.This is also how to exit the current game.</ul>
+                    <ul>8. To exit out of Match3Dogs, simply close the current internet explorer window.</ul>
+                </div>
+            </div>
+        </div>
+
+        <!--THE MAIN SCRIPT TO RUN-->
+        <script src="Match3Dogs/Manager.js" type="text/javascript"></script>
+
+    </div>
+</body>
+</html>

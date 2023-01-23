@@ -1,0 +1,58 @@
+C:\Cooper\School\2019\Digital Technology\Match3Dogs\Match3Dogs\bin\Debug\netcoreapp2.1\Match3Dogs.deps.json
+C:\Cooper\School\2019\Digital Technology\Match3Dogs\Match3Dogs\bin\Debug\netcoreapp2.1\Match3Dogs.runtimeconfig.json
+C:\Cooper\School\2019\Digital Technology\Match3Dogs\Match3Dogs\bin\Debug\netcoreapp2.1\Match3Dogs.runtimeconfig.dev.json
+C:\Cooper\School\2019\Digital Technology\Match3Dogs\Match3Dogs\bin\Debug\netcoreapp2.1\Match3Dogs.dll
+C:\Cooper\School\2019\Digital Technology\Match3Dogs\Match3Dogs\bin\Debug\netcoreapp2.1\Match3Dogs.pdb
+C:\Cooper\School\2019\Digital Technology\Match3Dogs\Match3Dogs\obj\Debug\netcoreapp2.1\Match3Dogs.csprojAssemblyReference.cache
+C:\Cooper\School\2019\Digital Technology\Match3Dogs\Match3Dogs\obj\Debug\netcoreapp2.1\Match3Dogs.csproj.CoreCompileInputs.cache
+C:\Cooper\School\2019\Digital Technology\Match3Dogs\Match3Dogs\obj\Debug\netcoreapp2.1\Match3Dogs.RazorAssemblyInfo.cache
+C:\Cooper\School\2019\Digital Technology\Match3Dogs\Match3Dogs\obj\Debug\netcoreapp2.1\Match3Dogs.RazorAssemblyInfo.cs
+C:\Cooper\School\2019\Digital Technology\Match3Dogs\Match3Dogs\obj\Debug\netcoreapp2.1\Match3Dogs.AssemblyInfoInputs.cache
+C:\Cooper\School\2019\Digital Technology\Match3Dogs\Match3Dogs\obj\Debug\netcoreapp2.1\Match3Dogs.AssemblyInfo.cs
+C:\Cooper\School\2019\Digital Technology\Match3Dogs\Match3Dogs\obj\Debug\netcoreapp2.1\Match3Dogs.RazorTargetAssemblyInfo.cache
+C:\Cooper\School\2019\Digital Technology\Match3Dogs\Match3Dogs\obj\Debug\netcoreapp2.1\Match3Dogs.dll
+C:\Cooper\School\2019\Digital Technology\Match3Dogs\Match3Dogs\obj\Debug\netcoreapp2.1\Match3Dogs.pdb
+C:\Cooper\School\2019\Digital Technology\JavaScript\Match3Dogs\Match3Dogs\bin\Debug\netcoreapp2.1\Match3Dogs.deps.json
+C:\Cooper\School\2019\Digital Technology\JavaScript\Match3Dogs\Match3Dogs\bin\Debug\netcoreapp2.1\Match3Dogs.runtimeconfig.json
+C:\Cooper\School\2019\Digital Technology\JavaScript\Match3Dogs\Match3Dogs\bin\Debug\netcoreapp2.1\Match3Dogs.runtimeconfig.dev.json
+C:\Cooper\School\2019\Digital Technology\JavaScript\Match3Dogs\Match3Dogs\bin\Debug\netcoreapp2.1\Match3Dogs.dll
+C:\Cooper\School\2019\Digital Technology\JavaScript\Match3Dogs\Match3Dogs\bin\Debug\netcoreapp2.1\Match3Dogs.pdb
+C:\Cooper\School\2019\Digital Technology\JavaScript\Match3Dogs\Match3Dogs\obj\Debug\netcoreapp2.1\Match3Dogs.csprojAssemblyReference.cache
+C:\Cooper\School\2019\Digital Technology\JavaScript\Match3Dogs\Match3Dogs\obj\Debug\netcoreapp2.1\Match3Dogs.csproj.CoreCompileInputs.cache
+C:\Cooper\School\2019\Digital Technology\JavaScript\Match3Dogs\Match3Dogs\obj\Debug\netcoreapp2.1\Match3Dogs.RazorAssemblyInfo.cache
+C:\Cooper\School\2019\Digital Technology\JavaScript\Match3Dogs\Match3Dogs\obj\Debug\netcoreapp2.1\Match3Dogs.RazorAssemblyInfo.cs
+C:\Cooper\School\2019\Digital Technology\JavaScript\Match3Dogs\Match3Dogs\obj\Debug\netcoreapp2.1\Match3Dogs.AssemblyInfoInputs.cache
+C:\Cooper\School\2019\Digital Technology\JavaScript\Match3Dogs\Match3Dogs\obj\Debug\netcoreapp2.1\Match3Dogs.AssemblyInfo.cs
+C:\Cooper\School\2019\Digital Technology\JavaScript\Match3Dogs\Match3Dogs\obj\Debug\netcoreapp2.1\Match3Dogs.RazorTargetAssemblyInfo.cache
+C:\Cooper\School\2019\Digital Technology\JavaScript\Match3Dogs\Match3Dogs\obj\Debug\netcoreapp2.1\Match3Dogs.dll
+C:\Cooper\School\2019\Digital Technology\JavaScript\Match3Dogs\Match3Dogs\obj\Debug\netcoreapp2.1\Match3Dogs.pdb
+C:\Cooper\ComputerPrograming\MyGames\Match3Dogs\Match3Dogs\bin\Debug\netcoreapp2.1\Match3Dogs.deps.json
+C:\Cooper\ComputerPrograming\MyGames\Match3Dogs\Match3Dogs\bin\Debug\netcoreapp2.1\Match3Dogs.runtimeconfig.json
+C:\Cooper\ComputerPrograming\MyGames\Match3Dogs\Match3Dogs\bin\Debug\netcoreapp2.1\Match3Dogs.runtimeconfig.dev.json
+C:\Cooper\ComputerPrograming\MyGames\Match3Dogs\Match3Dogs\bin\Debug\netcoreapp2.1\Match3Dogs.dll
+C:\Cooper\ComputerPrograming\MyGames\Match3Dogs\Match3Dogs\bin\Debug\netcoreapp2.1\Match3Dogs.pdb
+C:\Cooper\ComputerPrograming\MyGames\Match3Dogs\Match3Dogs\obj\Debug\netcoreapp2.1\Match3Dogs.csprojAssemblyReference.cache
+C:\Cooper\ComputerPrograming\MyGames\Match3Dogs\Match3Dogs\obj\Debug\netcoreapp2.1\Match3Dogs.RazorAssemblyInfo.cache
+C:\Cooper\ComputerPrograming\MyGames\Match3Dogs\Match3Dogs\obj\Debug\netcoreapp2.1\Match3Dogs.RazorAssemblyInfo.cs
+C:\Cooper\ComputerPrograming\MyGames\Match3Dogs\Match3Dogs\obj\Debug\netcoreapp2.1\Match3Dogs.AssemblyInfoInputs.cache
+C:\Cooper\ComputerPrograming\MyGames\Match3Dogs\Match3Dogs\obj\Debug\netcoreapp2.1\Match3Dogs.AssemblyInfo.cs
+C:\Cooper\ComputerPrograming\MyGames\Match3Dogs\Match3Dogs\obj\Debug\netcoreapp2.1\Match3Dogs.RazorTargetAssemblyInfo.cache
+C:\Cooper\ComputerPrograming\MyGames\Match3Dogs\Match3Dogs\obj\Debug\netcoreapp2.1\Match3Dogs.dll
+C:\Cooper\ComputerPrograming\MyGames\Match3Dogs\Match3Dogs\obj\Debug\netcoreapp2.1\Match3Dogs.pdb
+C:\Cooper\ComputerPrograming\MyGames\Match3Dogs\Match3Dogs\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Cooper\Coding\MyGames\Match3Dogs\Match3Dogs\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Cooper\Coding\MyGames\Match3Dogs\Match3Dogs\bin\Debug\netcoreapp2.1\Match3Dogs.deps.json
+C:\Cooper\Coding\MyGames\Match3Dogs\Match3Dogs\bin\Debug\netcoreapp2.1\Match3Dogs.runtimeconfig.json
+C:\Cooper\Coding\MyGames\Match3Dogs\Match3Dogs\bin\Debug\netcoreapp2.1\Match3Dogs.runtimeconfig.dev.json
+C:\Cooper\Coding\MyGames\Match3Dogs\Match3Dogs\bin\Debug\netcoreapp2.1\Match3Dogs.dll
+C:\Cooper\Coding\MyGames\Match3Dogs\Match3Dogs\bin\Debug\netcoreapp2.1\Match3Dogs.pdb
+C:\Cooper\Coding\MyGames\Match3Dogs\Match3Dogs\obj\Debug\netcoreapp2.1\Match3Dogs.csprojAssemblyReference.cache
+C:\Cooper\Coding\MyGames\Match3Dogs\Match3Dogs\obj\Debug\netcoreapp2.1\Match3Dogs.RazorAssemblyInfo.cache
+C:\Cooper\Coding\MyGames\Match3Dogs\Match3Dogs\obj\Debug\netcoreapp2.1\Match3Dogs.RazorAssemblyInfo.cs
+C:\Cooper\Coding\MyGames\Match3Dogs\Match3Dogs\obj\Debug\netcoreapp2.1\Match3Dogs.AssemblyInfoInputs.cache
+C:\Cooper\Coding\MyGames\Match3Dogs\Match3Dogs\obj\Debug\netcoreapp2.1\Match3Dogs.AssemblyInfo.cs
+C:\Cooper\Coding\MyGames\Match3Dogs\Match3Dogs\obj\Debug\netcoreapp2.1\Match3Dogs.RazorTargetAssemblyInfo.cache
+C:\Cooper\Coding\MyGames\Match3Dogs\Match3Dogs\obj\Debug\netcoreapp2.1\Match3Dogs.dll
+C:\Cooper\Coding\MyGames\Match3Dogs\Match3Dogs\obj\Debug\netcoreapp2.1\Match3Dogs.pdb
+C:\Cooper\Coding\MyGames\Match3Dogs\Match3Dogs\obj\Debug\netcoreapp2.1\Match3Dogs.csproj.CoreCompileInputs.cache
+C:\Cooper\Coding\MyGames\Match3Dogs\Match3Dogs\obj\Debug\netcoreapp2.1\Match3Dogs.genruntimeconfig.cache
